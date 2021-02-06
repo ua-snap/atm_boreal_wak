@@ -1,0 +1,76 @@
+﻿Type,Abbreviation,Description,Code
+Rocky alpine,ardb,Alpine Rocky Dry Barrens,118890
+Rocky alpine,ardds,Alpine Rocky Dry Dwarf Scrub,118843
+Rocky alpine,armls,Alpine Rocky Moist Low Scrub,118642
+Rocky alpine,armtls,Alpine Rocky Moist Tall and Low Scrub,118640
+Wet alpine,awls,Alpine Wet Low Scrub,110442
+Wet alpine,awm,Alpine Wet Meadow,110453
+Wet alpine,awtm,Alpine Wet Tussock Meadow,110458
+Human,hdb,Human Disturbed Barrens ,130090
+Human,hds,Human Disturbed Scrub,130040
+Human,hm,Human modified,130000
+Lacustrine,pfm,Lacustrine Fen Meadow (palustrine),41456
+Lacustrine,pmm,Lacustrine Moist Meadow,40652
+Riverine,lpr,Lower Perennial River,30215
+Lowland,lacc,Lowland Abandoned Channel Complex ,50463
+Lowland,lbm,Lowland Bog Meadow ,51455
+Lowland,ldsb,Lowland Dwarf Scrub Bog,51444
+Lowland,lec,Lowland Eolian Complex,50089
+Lowland,lfm,Lowland Fen Meadow,51456
+Lowland,lfs,Lowland Fen Scrub,51445
+Lowland,lftkc,Lowland Forest Thermokarst Complex ,50074
+Gravelly lowland,lgdbf,Lowland Gravelly Dry Broadleaf Forest,58832
+Gravelly lowland,lgdmf,Lowland Gravelly Dry Mixed Forest,58833
+Gravelly lowland,lgmbf,Lowland Gravelly Moist Broadleaf Forest ,58632
+Gravelly lowland,lgmls,Lowland Gravelly Moist Low Scrub,58642
+Gravelly lowland,lgmmf,Lowland Gravelly Moist Mixed Forest ,58633
+Gravelly lowland,lgmnf,Lowland Gravelly Moist Needleleaf Forest ,58631
+Gravelly lowland,lgmts,Lowland Gravelly Moist Tall Scrub,58441
+Gravelly lowland,lgnf,Lowland Gravelly Needleleaf Forest,58031
+Gravelly lowland,lgwls,Lowland Gravelly Wet Low Scrub ,58442
+Lowland,llsd,Lowland Low Scrub Fire Disturbed,59042
+Moist lowland,lmbf,Lowland Moist Broadleaf Forest,50632
+Moist lowland,lmm,Lowland Moist Meadow,50652
+Moist lowland,lmmf,Lowland Moist Mixed Forest,50633
+Moist lowland,lmts,Lowland Moist Tall Scrub,50641
+Lowland,lstkc,Lowland Scrub Thermokarst Complex ,50075
+Lowland,lsdc,Lowland Slope Drainage Complex ,50064
+Lowland,ltb,Lowland Tussock Bog ,50458
+Lowland,ltsb,Lowland Tussock Scrub Bog,51458
+Wet lowland,lwbf,Lowland Wet Broadleaf Forest,50432
+Wet lowland,lwls,Lowland Wet Low Scrub,50442
+Wet lowland,lwmf,Lowland Wet Mixed Forest,50433
+Wet lowland,lwnf,Lowland Wet Needleleaf Forest,50431
+Wet lowland,lwts,Lowland Wet Tall Scrub,50441
+Riverine,rb,Riverine Barrens,30090
+Riverine,rc,Riverine Complex,30060
+Gravelly riverine,rgb,Riverine Gravelly Barrens,38090
+Gravelly riverine,rgdbf,Riverine Gravelly Dry Broadleaf Forest,38832
+Gravelly riverine,rgdds,Riverine Gravelly Dry Dwarf Scrub,38843
+Gravelly riverine,rgdm,Riverine Gravelly Dry Meadow,38851
+Gravelly riverine,rgdmf,Riverine Gravelly Dry Mixed Forest,38833
+Gravelly riverine,rglts,Riverine Gravelly Low and Tall Scrub,38040
+Gravelly riverine,rgnf,Riverine Gravelly Needleleaf Forest,38031
+Moist riverine,rmbf,Riverine Moist Broadleaf Forest,30632
+Moist riverine,rmls,Riverine Moist Low Scrub,30642
+Moist riverine,rmmf,Riverine Moist Mixed Forest,30633
+Moist riverine,rmnf,Riverine Moist Needleleaf Forest,30631
+Moist riverine,rmts,Riverine Moist Tall Scrub,30641
+Wet riverine,rwls,Riverine Wet Low Scrub,30442
+Wet riverine,rmw,Riverine Wet Meadow,30453
+Moist upland,umbf,Upland Moist Broadleaf Forest,70632
+Moist upland,umls,Upland Moist Low Scrub ,70642
+Moist upland,umm,Upland Moist Meadow,70652
+Moist upland,ummf,Upland Moist Mixed Forest,70633
+Moist upland,umnf,Upland Moist Needleleaf Forest,70631
+Moist upland,umsd,Upland Moist Scrub   Disturbed,79640
+Moist upland,umtls,Upland Moist Tall and Low Scrub,70640
+Moist upland,umts,Upland Moist Tall Scrub,70641
+Rocky upland,urdb,Upland Rocky Dry Barrens,78890
+Rocky upland,urdbf,Upland Rocky Dry Broadleaf Forest,78832
+Rocky upland,urdls,Upland Rocky Dry Low Scrub,78842
+Rocky upland,urdm,Upland Rocky Dry Meadow,78851
+Upland,usdc,Upland Slope Drainage Complex,70064
+Wet upland,uwnf,Upland Wet Needleleaf Forest,70431
+Upland,wl,Water Lakes,40220
+Upland,wr,Water River,38211

@@ -1,0 +1,36 @@
+# Configuration file for ATM boreal
+#
+# Simulation Site
+Site 					TF
+#
+# Simulation period (historical or projection)
+Period 					projection
+#
+# Number of replicates
+Replicates				5
+#
+# Path to the parameter file
+Parameter_file			/Helene/SERDP_Douglas/Model/Parameters.txt
+#
+# Transition tables
+Transition_table 		/Helene/SERDP_Douglas/Model/input/Torre_prob_mn.csv
+#
+# Driver code tables
+Driver_table 			/Helene/SERDP_Douglas/Model/input/Driver_code.csv
+#
+# Land cover code tables
+Landcover_table 		/Helene/SERDP_Douglas/Model/input/Ecotype_code.csv
+#
+# Path to th directory to all the input data
+Input_Directory			/Helene/SERDP_Douglas/Model/input
+#
+# Path to the directory to all the output data
+Output_Directory 		/Helene/SERDP_Douglas/Model/output
+#
+# Start and end years of the projection simulations
+Start_sc_year 			1999
+End_sc_year 			2030
+#
+# Start and end years of the historical simulation
+Start_hist_year 		1950
+End_hist_year 			1998

@@ -1,0 +1,32 @@
+﻿Type,Code,Description,Code
+Change,al,Acidification-leaching,1
+Change,cd,Coastal deposition,2
+Change,ce,Coastal erosion,3
+Change,dm,Drainage & migration,4
+Change,dms,Drying/moisture Stress,5
+Change,dsi,Dominance shift/infilling,6
+Change,f,fire,7
+Change,f-mult,Fire-multiple,8
+Change,fm,Fire-mid (1950-1978),9
+Change,fo,Fire-old (before 1949),10
+Change,fr,Fire-recent (1980-2006),11
+Change,ftk,Fire and Thermokarst,12
+Change,gm,Glacier melting,13
+Change,h,Human development,14
+Change,ha,Agriculture,15
+Change,hc,Clearings,16
+Change,he,Excavations,17
+Change,hf,Fill/Roads,18
+Change,ht,Trails,19
+Change,ld,Lake drainage,20
+Change,lf,Landslides/fans,21
+Change,n,None,22
+Change,pae,Paludification-early,23
+Change,pal,Paludification-late,24
+Change,pfs,Post-fire succession,25
+Change,pme,Plant migration/expansion,26
+Change,ps,Primary succession (riverine),27
+Change,rd,River deposition,28
+Change,re,River erosion,29
+Change,sd,Soil drainage,30
+Change,tk,Thermokarst,31
